@@ -7,15 +7,3 @@
  <p>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulcanozel&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
-
-
-### Contact me 
-  <p>
-   <a href="mailto:ozel_gulcan@hotmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-</p>
-  <p>
-  <a href="https://linkedin.com/in/gulcanozel/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-</p>
-
-
-
